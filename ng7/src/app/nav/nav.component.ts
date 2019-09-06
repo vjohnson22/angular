@@ -9,6 +9,8 @@ export class NavComponent implements OnInit {
 
   appTitle = 'myapp'
 
+  h1Style = false
+
   constructor() { }
 
   ngOnInit() {
